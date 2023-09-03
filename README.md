@@ -40,7 +40,7 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
         alt="Seaborn" width="40" height="40"/> 
     </a> 
-\</p>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarya1312&show_icons=true&locale=en&layout=compact" alt="aarya1312" /></p>
 
