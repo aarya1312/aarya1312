@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaryanair13" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="aaryanair13" height="40" width="40" /></a>
-<a href="https://github.com/aarya1312" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/github.png" alt="aarya1312" height="40" width="40" /></a>
+<a href="https://github.com/aarya1312" target="blank"><img align="center" src="https://img.icons8.com/sf-black-filled/64/FFFFFF/github.png" alt="aarya1312" height="40" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="aaryanair1312@gmail.com" height="40" width="40" /></a>
 </p>
 
