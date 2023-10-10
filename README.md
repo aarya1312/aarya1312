@@ -41,7 +41,7 @@
         alt="Seaborn" width="40" height="40"/> 
     </a> 
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://www.flaticon.com/free-icons/machine-learning" 
+        <img src="https://img.icons8.com/cotton/64/brain-3.png" 
         alt="Machine Learning" width="40" height="40"/> 
     </a> 
 </p>
